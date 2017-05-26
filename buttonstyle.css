@@ -1,0 +1,12 @@
+
+body {font size: 10px}
+
+a.default
+{background-color: magenta}
+
+a.hover
+{background-color: green}
+
+a.Focus {background-color: pink}
+
+a.Active {background-color: red}
